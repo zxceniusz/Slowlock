@@ -1,0 +1,3 @@
+<target name="wrapMyApp" depends="myapp.jar">
+        <launch4j configFile="myappConfig.xml" />
+</target>
